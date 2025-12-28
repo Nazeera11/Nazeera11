@@ -26,7 +26,7 @@
 - **Diploma**  in Computer Science 
   KES Polytechnic , year: 2021-2024
 
-
+  
 ## 🔹 Contact
 
 - **LinkedIn:** [https://www.linkedin.com/in/nazeera-mohammad-63ba50323?            utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
@@ -36,8 +36,3 @@
 
 
 
-
-
-
-**Nazeera11/Nazeera11** is a ✨ _special_ ✨ repository because its `README.md` (this file) ap Fun fact: ...
---
