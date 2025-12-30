@@ -13,10 +13,16 @@
 
 ## 🔹 Projects
 
-### 1. Exam Results Management System (Diploma Project)
-- A system to manage student exam results efficiently  
-- Features: Add, Update, Delete, and View results  
-- **Technologies:** C#, .NET, ASP.NET MVC     
+### Exam Results Management System
+- **Description:** ASP.NET MVC web application for managing and publishing student examination results.
+- **Technologies:** C#, ASP.NET MVC, SQL Server, HTML, CSS
+- **Database:** Table creation script available in `DatabaseScripts/ScoreData.sql`
+- **Features:**
+  - Student result search by roll number and semester
+  - Admin uploads results using CSV
+  - Automatic total and pass/fail calculation  
+- **GitHub Repository:** [Click here](https://github.com/Nazeera11/ExamResults-Management-System.git)
+     
 
 ## 🔹 Education
 
