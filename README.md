@@ -13,15 +13,14 @@
 
 ## 🔹 Projects
 
-### Exam Results Management System
-- **Description:** ASP.NET MVC web application for managing and publishing student examination results.
-- **Technologies:** C#, ASP.NET MVC, SQL Server, HTML, CSS
-- **Database:** Table creation script available in `DatabaseScripts/ScoreData.sql`
+### Password Generator
+- **Description:** Simple command-line application that generates secure random passwords based on user-defined length.
+- **Technologies:** Python, Git
 - **Features:**
-  - Student result search by roll number and semester
-  - Admin uploads results using CSV
-  - Automatic total and pass/fail calculation  
-- **GitHub Repository:** [Click here](https://github.com/Nazeera11/ExamResults-Management-System.git)
+  - Generates random secure passwords
+  - Allows user to choose password length
+  - Uses letters, numbers, and special characters for stronger passwords
+  - **GitHub Repository:** [Click here](https://github.com/Nazeera11/password-generator.git)
      
 
 ## 🔹 Education
